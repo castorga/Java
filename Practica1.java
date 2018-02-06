@@ -4,7 +4,7 @@
 
 import javax.swing.*;
 
-public class wtf
+public class Practica1
 {
 	public static void main(String args[])
 	{
